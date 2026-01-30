@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-perlnavigator",
+  "owner": {
+    "name": "Yuji Hatakeyama"
+  },
+  "plugins": [
+    {
+      "name": "perlnavigator",
+      "source": "./",
+      "description": "Perl language support via PerlNavigator LSP"
+    }
+  ]
+}
