@@ -1,0 +1,16 @@
+{
+  "perl": {
+    "command": "perlnavigator",
+    "args": ["--stdio"],
+    "extensionToLanguage": {
+      ".pl": "perl",
+      ".pm": "perl",
+      ".t": "perl",
+      ".cgi": "perl",
+      ".psgi": "perl"
+    },
+    "transport": "stdio",
+    "initializationOptions": {},
+    "maxRestarts": 3
+  }
+}
