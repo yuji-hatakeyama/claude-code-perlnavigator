@@ -1,0 +1,11 @@
+{
+  "name": "perlnavigator",
+  "version": "0.1.0",
+  "description": "Perl language support via PerlNavigator LSP",
+  "author": {
+    "name": "Yuji Hatakeyama"
+  },
+  "repository": "https://github.com/yuji-hatakeyama/claude-code-perlnavigator",
+  "license": "MIT",
+  "keywords": ["perl", "lsp", "language-server", "perlnavigator"]
+}
